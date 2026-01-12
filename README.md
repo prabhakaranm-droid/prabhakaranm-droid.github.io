@@ -1,6 +1,6 @@
 # prabhakaranm-droid.github.io
-Dr. Prabhakaran M | Assistant Professor | AI &amp; Machine Learning | Teaching, Research and Funded Projects
-# Dr. Prabhakaran M
+Dr. Prabhakaran Mathialagan | Assistant Professor | AI &amp; Machine Learning | Teaching, Research and Funded Projects
+# Dr. Prabhakaran Mathialagan
 
 **Assistant Professor | Artificial Intelligence & Machine Learning**  
 School of Computer Science & Information Technology  
@@ -9,9 +9,8 @@ JAIN (Deemed-to-be University), Bengaluru
 ---
 
 ## About Me
-I am an Assistant Professor at JAIN (Deemed-to-be University), Bengaluru, specializing in Artificial Intelligence, Machine Learning, and interdisciplinary research. My research focuses on medical image analysis, deep learning-based diagnostic systems, computer vision, and AI-driven decision support systems.
-
-I am actively involved in funded research projects, MOOC development, and interdisciplinary collaborations integrating AI with healthcare, agriculture, and social sciences.
+I am an Assistant Professor at JAIN (Deemed-to-be University), Bengaluru, specializing in Artificial Intelligence and Machine Learning. My research focuses on medical image analysis, deep learning-based diagnostic systems, computer vision, and interdisciplinary AI applications. I am actively involved in funded research projects, MOOC development, and mentoring undergraduate and postgraduate research.
+I am actively involved in ICSSR funded research project of worth (1-Cr), MOOC development, and interdisciplinary collaborations integrating AI with healthcare, agriculture, and social sciences.
 
 ---
 
@@ -47,9 +46,10 @@ Details of publications, patents, and funded projects will be updated here.
 ---
 
 ## Contact
-📧 Email: *[add your official email]*  
-🔗 LinkedIn: *[add link]*  
-📚 Google Scholar: *[add link]*  
+📧 Email: *[prabhakaran.m@jainuniversity.ac.in]*  
+📧 Email: *[prabhamathi12@gmail.com]*  
+🔗 LinkedIn: *[(https://www.linkedin.com/in/dr-prabhakaran-mathialagan-424a7b270/)]*  
+📚 Google Scholar: *[[add link](https://scholar.google.com/citations?user=vZojwzYAAAAJ&hl=en&oi=ao)]*  
 
 ---
 
